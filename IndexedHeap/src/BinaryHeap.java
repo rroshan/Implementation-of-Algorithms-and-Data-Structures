@@ -1,5 +1,6 @@
 /**
  *  Class to implement Binary Heap
+ * @author Roshan Ravikumar
  *  @author Soorya Prasanna Ravichandran
  */
 

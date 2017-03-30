@@ -1,5 +1,6 @@
 /**
  * Class to find the critical path
+ * @author Roshan Ravikumar
  * @author Soorya Prasanna Ravichandran
  */
 

@@ -1,5 +1,6 @@
 /**
  * 	Class to implement Indexed Heap
+ * @author Roshan Ravikumar
  *  @author Soorya Prasanna Ravichandran
  */
 

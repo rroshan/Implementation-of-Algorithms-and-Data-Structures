@@ -1,5 +1,6 @@
 /**
  *  Euler Tour Implementation
+ * @author Roshan Ravikumar
  *  @author Soorya Prasanna Ravichandran
  */
 import java.util.HashSet;

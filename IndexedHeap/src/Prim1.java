@@ -1,5 +1,6 @@
 /**
  * 	Class to implement Prim's MST algorithm using Java's Priority Queues (priority queue of edges)
+ * @author Roshan Ravikumar
  *  @author Soorya Prasanna Ravichandran
  */
 

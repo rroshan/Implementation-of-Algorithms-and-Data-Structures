@@ -1,5 +1,6 @@
 /**
  * 	Class to implement Prim's MST algorithm using Indexed Heap (priority queue of vertices)
+ * @author Roshan Ravikumar
  *  @author Soorya Prasanna Ravichandran
  */
 

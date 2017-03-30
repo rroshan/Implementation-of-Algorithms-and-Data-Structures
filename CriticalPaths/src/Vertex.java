@@ -1,5 +1,6 @@
 /**
  * Class to represent a vertex of a graph
+ * @author Roshan Ravikumar
  * @author Soorya Prasanna Ravichandran
  */
 

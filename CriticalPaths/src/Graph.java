@@ -1,5 +1,6 @@
 /**
  * Class to represent a graph
+ * @author Roshan Ravikumar
  * @author Soorya Prasanna Ravichandran
  */
 

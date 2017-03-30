@@ -1,5 +1,6 @@
 /**
  * Class that represents an edge of a Graph
+ * @author Roshan Ravikumar
  * @author Soorya Prasanna Ravichandran
  *
  */
